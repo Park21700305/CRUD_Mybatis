@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CRUDSBOARD:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CRUDSBOARD_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CRUDSBOARD/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CRUDSBOARD" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
