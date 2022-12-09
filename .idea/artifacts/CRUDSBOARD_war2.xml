@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="CRUDSBOARD:war2">
-    <output-path>$PROJECT_DIR$/out/artifacts/CRUDSBOARD_war2</output-path>
-    <root id="archive" name="CRUDSBOARD.war">
-      <element id="artifact" artifact-name="CRUDSBOARD:war exploded" />
-    </root>
-  </artifact>
-</component>

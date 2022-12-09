@@ -1,4 +1,4 @@
-package com.example;
+package com.example.board;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -16,8 +16,8 @@ public class BoardServiceImpl implements BoardService {
     }
 
     @Override
-    public int deleteBoard(int seq) {
-        return boardDAO.deleteBoard(seq);
+    public int deleteBoard(int id) {
+        return boardDAO.deleteBoard(id);
     }
 
     @Override
